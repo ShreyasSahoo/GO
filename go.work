@@ -1,9 +1,17 @@
 go 1.21.1
 
 use (
+	.
+	./arrays
 	./conversions
+	./defer
+	./file-handling
+	./methods
+	./my-golang-program
+	./pointers
+	./switch
 	./time
 	./user-input
 	./variables
-	./pointers
+	./web-requests
 )
