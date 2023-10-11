@@ -2,11 +2,14 @@ go 1.21.1
 
 use (
 	.
+	./API
 	./arrays
 	./conversions
 	./defer
 	./file-handling
+	./handlingURL
 	./methods
+	./mongoAPI
 	./my-golang-program
 	./pointers
 	./switch
